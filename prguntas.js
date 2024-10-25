@@ -1,23 +1,23 @@
-criaCrtão(
-  'categoria'
-  'prgunta'
-  'resposta'
+criaCartao(
+  'Desenhos animados',
+  'Qual é o nome do cãozinho companheiro do Mickey Mouse',
+  'pluto',
 )
 
-criaCrtão(
-    'categoria'
-    'prgunta'
-    'resposta'
+criaCartao(
+    'Desenhos animados',
+    'Em qual cidade se passa a história de "Os Simpsons',
+    'Springfield'
   )
 
-  criaCrtão(
-    'categoria'
-    'prgunta'
-    'resposta'
+  criaCartao(
+    'Desenhos animados',
+    'Quais são os nomes das tartarugas ninjas',
+    'Michelangelo, Donatello, Rafael e Leonardo'
   )
 
-  criaCrtão(
-    'categoria'
-    'prgunta'
-    'resposta'
+  criaCartao(
+    'Desenhos animados',
+    'Qual a verdadeira identidade do batman',
+    'Bruce Wayne'
   )
