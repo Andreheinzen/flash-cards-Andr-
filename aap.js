@@ -4,13 +4,13 @@ function criaCartao(categoria, pergunta, resposta) {
     cartao.className = 'cartao';
 
     cartao.innerHTML = `
-<div class="cartao__conteudo">
-                    <h3>${desenhos animados}</h3 >
+           <div class="cartao__conteudo">
+                    <h3>${categoria}</h3 >
                     <div class="cartao__conteudo__pergunta">
-                        <p>${Qual é o nome do cãozinho companheiro do Mickey Mouse}</p>
+                        <p>${pergunta}</p>
                     </div>
                     <div class="cartao__conteudo__resposta">
-                        <p>${pluto}</p>
+                        <p>${resposta}</p>
                     </div>
                 </div >
     `
